@@ -10,6 +10,6 @@ Carl David B. Ragunton \<cbragunton@up.edu.ph\>
 
 University of the Philippines Diliman
 
-2nd Semester A.Y. 2021-2022
+1st Semester A.Y. 2022-2023
 
 © Course Materials by Sir Wilson Tan, Sir Juan Felipe Coronel, and Ma'am Angela Zabala
