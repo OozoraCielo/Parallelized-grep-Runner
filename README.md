@@ -1,7 +1,7 @@
 # Parallelized-grep-Runner
 A University of the Philippines Project that implements grep in C as a single-threaded and multithreaded manner
 
-Please see the documentation file for more information on on the problem and how I solved it.
+Please see the documentation file for more information on the problem and how I solved it.
 
 Kindly [email](cbragunton@up.edu.ph) me if you want to see the project specifications.
 
